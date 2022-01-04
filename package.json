@@ -1,7 +1,7 @@
 {
   "name": "discordjs-base",
   "version": "1.0.0",
-  "description": "Code Base for an Discord.JS Bot",
+  "description": "DiscordJS Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
