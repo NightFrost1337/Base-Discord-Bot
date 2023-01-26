@@ -4,13 +4,11 @@ This is a Discord Bot Template. You can add your own commands to it by creating 
 
 ## Installation
 
-Use the package manager [npm](https://nodejs.org/en/download/) to install all needed modules.
+Use the package [npm](https://nodejs.org/en/download/) to install all needed modules.
 
 ```bash
 npm install
 ```
-
-Your can get the Token from the Discord Developer Page. [Link](https://discord.com/developers/applications)
 
 ## Included
 - Command Manager
